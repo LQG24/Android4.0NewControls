@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:title="Switch" />
+    <item android:title="Space" />
+    <item android:title="GridLayout" />
+    <item android:title="PopupMenu" />
+    <item android:title="TextureView" />
+</menu>
